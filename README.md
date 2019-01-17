@@ -9,7 +9,7 @@
     -  Comming Soon~
 
 - __2019.01.16__
-    -  ![Figure1]( /Users/taehongmoon/Desktop/Research/Graph_Embedding.png )
+    -  ![maximum_likelihood]( /Users/taehongmoon/Desktop/Research/Graph_Embedding.png )
      
 ***
 
