@@ -9,7 +9,8 @@
     -  Comming Soon~
 
 - __2019.01.16__
-    -  ![maximum_likelihood]( /Users/taehongmoon/Desktop/Research/Graph_Embedding.png )
+      ![maximum_likelihood]( /Users/taehongmoon/Desktop/Research/Graph_Embedding/maximum_likelihood.png )
+      source from "http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html"
      
 ***
 
