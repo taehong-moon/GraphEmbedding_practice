@@ -143,8 +143,7 @@ class Node2Vec:
                 # Calculate unnormalized weights
                 for destination in self.graph.neighbors(current_node):
 
-                    p = self.sampling_strategy[current_node].get(self.P_KEY,
-                                                                 self.p) if current_node in self.sampling_strategy else self.p
+                    p = self.sampling_strategy[current_node].get(self.P_KEY, self.p) if current_node in self.sampling_strategy else self.p
                     q = self.sampling_strategy[current_node].get(self.Q_KEY,
                                                                  self.q) if current_node in self.sampling_strategy else self.q
 

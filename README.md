@@ -4,8 +4,31 @@
     - https://github.com/eliorc/node2vec
     - I have a plan to analyze this code and gradually modify this code more intuitively. 
     
-- __2019.01.14 ~ 2019.01.17__
+- __2019.01.14 ~__
     - '_DeepWalk_', '_Node2Vec_', '_A3C_' will be implemented in Python Code, 
     -  Comming Soon~
- 
 
+- __2019.01.16__
+    -  ![Figure1]( /Users/taehongmoon/Desktop/Research/Graph_Embedding.png )
+     
+***
+
+<h2> Learning Node Embeddings</h2>
+
+> 1. ___Define an encoder___
+>
+> 2. ___Define a node similarity function___
+>
+> 3. ___Optimize the parameters of the encoder so that:___
+
+- __There are three shallow encoding approaches__
+    
+    1. Adjacency-based Similarity
+    
+    2. Multi-hop Similarity
+    
+    3. Random-Walk Approaches
+  
+
+.
+    
